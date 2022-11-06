@@ -6,7 +6,7 @@ function creatGame(player1, hour, player2){
       <img src="./assets/icon-${player2}.svg" alt="Bandeira da ${player2}" />
     </li>
   `
-}
+} 
 
 let delay =-0.4;
 function creatCard(date, day, games) {
